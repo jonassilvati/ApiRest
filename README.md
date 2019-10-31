@@ -1,6 +1,6 @@
 # ApiRest
 Api REST com server PHP e client Android
 
-api - Api REST PHP
-MyProducts - Projeto Android/Java
-app.apk - aplicativo(MyProducts)
+api - Api REST PHP\n
+MyProducts - Projeto Android/Java\n
+app.apk - aplicativo(MyProducts)\n
