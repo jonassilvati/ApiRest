@@ -6,10 +6,10 @@ use PDO;
 
 class Database {
     public $con;
-    public $user = "u758985735_apiuser";
+    public $user = "apiuser";
     public $host = "localhost";
-    public $pass = "xth401std";
-    public $database = "u758985735_api";
+    public $pass = "";
+    public $database = "api";
 
     public function __construct(){
         $this->con = new PDO('mysql:host='.$this->host.'; dbname='.$this->database.';',$this->user,$this->pass);
